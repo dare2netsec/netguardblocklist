@@ -65972,4 +65972,4 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
-0.0.0.0 *.facebook.com
+0.0.0.0 facebook.com
